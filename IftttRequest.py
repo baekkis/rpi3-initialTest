@@ -1,5 +1,5 @@
 import requests
-url = 'https://maker.ifttt.com/trigger/test/with/key/cgGGzSukCGImLzaThWlgtF'
+url = 'https://maker.ifttt.com/trigger/test/with/key/cdWvZpM0bM84ydmsi41QnI'
 #parameters = {
 # 'username': 'username',
 # 'password': 'password',
